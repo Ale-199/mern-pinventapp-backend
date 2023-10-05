@@ -1,0 +1,3 @@
+Step1 --> build the server and connect to MongoDB.
+
+Step2 --> 
