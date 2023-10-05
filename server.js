@@ -28,7 +28,7 @@ app.use(
   //exchange credentials.
   cors({
     //specify the URL that we are going to be making request from to the backend.
-    origin: ["http://localhost:3000", "https://alepinvent-app.vercel.app/"],
+    origin: ["http://localhost:3000", "https://alepinvent-app.vercel.app"],
     // https://alepinvent-app.vercel.app/
     //-To enable exchange of credentials or sending the credentials from backend to the front end.
 
